@@ -28,7 +28,7 @@ To deploy the Airflow DAG on an Amazon EC2 instance, follow these steps:
 - Connect to EC2 Instance: Use SSH to connect to the EC2 instance using the provided public key.
 - Clone Repository: Clone this repository onto the EC2 instance.
 ```
-git clone https://github.com/your-username/tmt-scraper-airflow.git
+git@github.com:ZeeshanM96/Airflow_ETL.git 
 ```
 - Install Dependencies: Install the required dependencies using pip.
 ```
