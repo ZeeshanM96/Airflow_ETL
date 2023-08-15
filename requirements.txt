@@ -1,0 +1,4 @@
+apache-airflow
+pandas
+s3fs
+bs4
